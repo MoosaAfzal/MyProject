@@ -2,4 +2,8 @@ Hello World
 
 fast forward change
 
-change for merge commit
+
+change for merge commit from master
+
+change for merge commit from dev
+
