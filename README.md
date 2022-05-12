@@ -4,3 +4,4 @@
 This is my first demo project
 
 **This is bold Text**
+*This is Italic Text*
